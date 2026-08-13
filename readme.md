@@ -98,6 +98,6 @@ This project demonstrates practical experience with:
 
 ## 👨‍💻 Author
 
-**Haryyx**
+**Hassan Ansari**
 
 AIML Engineering student building practical projects in **Data Analytics, Business Intelligence, AI, and Machine Learning**.
